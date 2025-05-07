@@ -6,7 +6,7 @@ import random
 label_map = {0: "negative", 1: "neutral", 2: "positive"}
 
 # Number samples per class
-nb_per_class = 1000
+nb_per_class = 500
 output_root = "corpus"
 
 # Load and shuffle dataset
